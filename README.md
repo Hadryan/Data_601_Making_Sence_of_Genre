@@ -19,6 +19,7 @@ Music genre is an incredibly difficult classification question as the lines that
 The inspiration for this project came from another tool that used the spotify web API. [Every Noise](http://everynoise.com/) is an ongoing project that is logging and visualizing the spotify genre space. As of November 2020 there are 5,068 unique genres within the Spotify track library, and the number is always growing. The tool provides a wonderfully exciting way to explore both mainstream and fringe genres and builds a playlist for each and every genre it logs.  [This Link](https://open.spotify.com/playlist/69fEt9DN5r4JQATi52sRtq?si=_xSevsMHTh6QEOnPmQdAGw) will take you to a playlist generate by the Every Noise Project, where every genre has one song; over 350 hours of music. 
 
 Similar projects and tutorials references on the Spotify Web API and python data science
+- [Every Noise](http://everynoise.com/) an ongoing project mapping and cataloging every single spotify genre
 - https://medium.com/@maxtingle/getting-started-with-spotifys-api-spotipy-197c3dc6353b Shows how to implment the Spotipy python package to acess the Spotify Web API and save the results to a pandas data frame.
 - https://www.kaggle.com/nicapotato/top-spotify-tracks-2019-eda/execution An example of EDA on spotify feature data 
 - https://www.kaggle.com/aniruddhachoudhury/classify-song-genres-from-audio-data-model Refrenced for testing and comparing moddle results 
