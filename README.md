@@ -29,7 +29,6 @@ Similar projects and tutorials references on the Spotify Web API and python data
 - Data: Includes data
 	+ spotify_df.csv : a .csv of the dataset 
 	+ spotify_df.pkl : a python pickle saved spotify dataframe element 
-	+ spotify_dict.pkl : a pickel of the  dictionary of playlists
 - Notebooks
 	+ importSpotifyData.ipynb: Quering, cleaning, and saving the data from the Spotify Web API 
 	+ spotifyGenreEDA.ipynb: detailed EDA of the dataset 
